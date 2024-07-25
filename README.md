@@ -3,13 +3,15 @@
 
 Simple Tuff Mod is a mod that adds various types of tuff from Minecraft version 1.21 to version 1.20 and below
 
+[GitHub Issues Page](http://www.google.com)
+
 ## Что добавляет мод
-Этот мод добавляет все туфовые из версии Minecraft 1.21
+This mod adds all the tuff blocks from Minecraft version 1.21
 
 ![All types of tuff](https://cdn.modrinth.com/data/cached_images/ea80c40d3ed5b00bb2534a6323ac965140aa75f0.png)
 
-### Таблица блоков из мода:
-| Name                 | Id                 | Texture  |
+### Table of blocks from the mod:
+| Block                 | Id                 | Texture  |
 |----------------------|--------------------|---|
 | Chiseled Tuff        | chiseledtuff       |  ![Chiseled Tuff](https://cdn.modrinth.com/data/cached_images/214e0668ca81a341e905798b7728296739427c69.png) |
 | Tuff Slab            | tuffslab           | ![Tuff Slab](https://cdn.modrinth.com/data/cached_images/8e5fa78b52268e4bb5d8bdc7bb00ae634c4e4ad4.png) |
@@ -25,7 +27,7 @@ Simple Tuff Mod is a mod that adds various types of tuff from Minecraft version 
 | Tuff Brick Stairs    | tuffbrickstairs    | ![Tuff Brick Stairs](https://cdn.modrinth.com/data/cached_images/29663fc78ff954c53a883c744e504897fbb9d6d0.png) |
 | Tuff Brick Wall      | tuffbrickwall      | ![Tuff Brick Wall](https://cdn.modrinth.com/data/cached_images/b6af68ccbfa4d6daec33a066a9e40d0c03a82dea.png) |
 
-### Таблица крафтов:
+### Crafts Table:
 | Id                 | Craft |
 |--------------------|-------|
 | chiseledtuff       |   ![Chiseled Tuff Craft](https://cdn.modrinth.com/data/cached_images/95302c093783342175b45c99ec55b8e43ade4785.png)    |
@@ -42,11 +44,11 @@ Simple Tuff Mod is a mod that adds various types of tuff from Minecraft version 
 | tuffbrickstairs    |   ![Tuff Brick Stairs Craft](https://cdn.modrinth.com/data/cached_images/9ed1d3727146a4b9ec3918e34d126fc8eb99ade1.png)    |
 | tuffbrickwall      |   ![Tuff Brick Wall Craft](https://cdn.modrinth.com/data/cached_images/83511722760c5f524a7e261e2c9132443e3f0156.png)    |
 
-**Также все эти крафты доступны в камнерезе**
+**Also, all of these recipes are available in stonecutte**
 
 
-## Использование
-**Чтобы установить мод, установите Minecraft Forge подходящей версии и перенесите мод в папку .minecraft/mods**
+## Usage
+**To install the mod, install Minecraft Forge of a suitable version and transfer the mod to the .minecraft/mods folder**
 
-После этого в игре появятся все блоки из мода
+After that, all the blocks from the mod will appear in the game
 
