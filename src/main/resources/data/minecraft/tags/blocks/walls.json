@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "simple_tuff:tuffbrickwall",
+    "simple_tuff:polishedtuffwall",
+    "simple_tuff:tuffwall"
+  ]
+}

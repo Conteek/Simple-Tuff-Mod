@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "simple_tuff:block/tuffbrickslab"
+    },
+    "type=top": {
+      "model": "simple_tuff:block/tuffbrickslab_top"
+    },
+    "type=double": {
+      "model": "simple_tuff:block/tuffbrickslab_full"
+    }
+  }
+}

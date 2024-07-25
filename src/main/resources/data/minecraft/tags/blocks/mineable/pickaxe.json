@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "simple_tuff:tuffbrickwall",
+    "simple_tuff:polishedtuffwall",
+    "simple_tuff:tuffwall",
+    "simple_tuff:tuffbrick",
+    "simple_tuff:tuffbrickstairs",
+    "simple_tuff:polishedtuffstairs",
+    "simple_tuff:tuffstairs",
+    "simple_tuff:chiseledtuff",
+    "simple_tuff:polishedtuff"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "block.simple_tuff.chiseledtuffbrick": "Резные туфовые кирпичи",
+  "block.simple_tuff.polishedtuffslab": "Плита из полированного туфа",
+  "block.simple_tuff.chiseledtuff": "Резной туф",
+  "block.simple_tuff.tuffslab": "Туфовая плита",
+  "block.simple_tuff.tuffbrickslab": "Плита из туфового кирпича",
+  "block.simple_tuff.polishedtuff": "Полированный туф",
+  "block.simple_tuff.polishedtuffwall": "Ограда из полированного туфа",
+  "block.simple_tuff.polishedtuffstairs": "Ступеньки из полированного туфа",
+  "block.simple_tuff.tuffbrickstairs": "Ступеньки из туфового кирпича",
+  "block.simple_tuff.tuffwall": "Туфовая ограда",
+  "subtitles.tuff_step": "",
+  "subtitles.tuff_break": "",
+  "block.simple_tuff.tuffbrick": "Туфовые кирпичи",
+  "subtitles.tuff_place": "",
+  "block.simple_tuff.tuffbrickwall": "Ограда из туфового кирпича",
+  "block.simple_tuff.tuffstairs": "Туфовые ступеньки"
+}

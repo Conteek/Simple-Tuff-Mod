@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "simple_tuff:block/polishedtuffslab"
+    },
+    "type=top": {
+      "model": "simple_tuff:block/polishedtuffslab_top"
+    },
+    "type=double": {
+      "model": "simple_tuff:block/polishedtuffslab_full"
+    }
+  }
+}

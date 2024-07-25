@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simple_tuff:block/smooth_stone_slab_top",
+    "up": "simple_tuff:block/smooth_stone_slab_top",
+    "north": "simple_tuff:block/smooth_stone_slab_side",
+    "east": "simple_tuff:block/smooth_stone_slab_side",
+    "south": "simple_tuff:block/smooth_stone_slab_side",
+    "west": "simple_tuff:block/smooth_stone_slab_side",
+    "particle": "simple_tuff:block/smooth_stone_slab_top"
+  },
+  "render_type": "cutout_mipped"
+}

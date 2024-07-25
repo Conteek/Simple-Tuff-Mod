@@ -1,0 +1,78 @@
+{
+  "tuff_break": {
+    "sounds": [
+      {
+        "name": "simple_tuff:tuff_break1.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_break2.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_break3.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_break4.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_break5.ogg",
+        "stream": false
+      }
+    ]
+  },
+  "tuff_place": {
+    "sounds": [
+      {
+        "name": "simple_tuff:tuff_place1.ogg_",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_place2.ogg_.mp3",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_place3.ogg_.mp3",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_place4.ogg_.mp3",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_place5.ogg_.mp3",
+        "stream": false
+      }
+    ]
+  },
+  "tuff_step": {
+    "sounds": [
+      {
+        "name": "simple_tuff:tuff_step2.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_step6.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_step5.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_step4.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_step3.ogg",
+        "stream": false
+      },
+      {
+        "name": "simple_tuff:tuff_step1.ogg",
+        "stream": false
+      }
+    ]
+  }
+}

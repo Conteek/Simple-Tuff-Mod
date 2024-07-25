@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "simple_tuff:tuffbrick"
+    }
+  },
+  "result": {
+    "item": "simple_tuff:tuffbrick",
+    "count": 6
+  }
+}

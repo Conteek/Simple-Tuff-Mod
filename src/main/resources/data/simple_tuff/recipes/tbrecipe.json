@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "simple_tuff:polishedtuff"
+    }
+  },
+  "result": {
+    "item": "simple_tuff:tuffbrick",
+    "count": 4
+  }
+}

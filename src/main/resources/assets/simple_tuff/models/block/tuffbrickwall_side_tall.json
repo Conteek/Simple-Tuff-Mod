@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "simple_tuff:block/stone_bricks",
+    "particle": "simple_tuff:block/stone_bricks"
+  },
+  "render_type": "solid"
+}

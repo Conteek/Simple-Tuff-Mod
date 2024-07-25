@@ -1,0 +1,18 @@
+{
+  "block.simple_tuff.chiseledtuffbrick": "Gemeißelte Tuffsteinziegel",
+  "block.simple_tuff.polishedtuffslab": "Polierte Tuffsteinstufe",
+  "block.simple_tuff.chiseledtuff": "Gemeißelte Tuffstein",
+  "block.simple_tuff.tuffslab": "Tuffsteinstufe",
+  "block.simple_tuff.tuffbrickslab": "Tuffsteinziegelstufe",
+  "block.simple_tuff.polishedtuff": "Polierter Tuffstein",
+  "block.simple_tuff.polishedtuffwall": "Polierte Tuffsteinmauer",
+  "block.simple_tuff.polishedtuffstairs": "Polierte Tuffsteintreppe",
+  "block.simple_tuff.tuffbrickstairs": "Tuffsteinziegeltreppe",
+  "block.simple_tuff.tuffwall": "Tuffsteinmauer",
+  "subtitles.tuff_step": "",
+  "subtitles.tuff_break": "",
+  "block.simple_tuff.tuffbrick": "Tuffsteinziegel",
+  "subtitles.tuff_place": "",
+  "block.simple_tuff.tuffbrickwall": "Tuffsteinziegelmauer",
+  "block.simple_tuff.tuffstairs": "Tuffsteintreppe"
+}

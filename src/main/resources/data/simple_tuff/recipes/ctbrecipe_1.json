@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "simple_tuff:tuffbrickslab"
+    }
+  },
+  "result": {
+    "item": "simple_tuff:chiseledtuffbrick",
+    "count": 1
+  }
+}

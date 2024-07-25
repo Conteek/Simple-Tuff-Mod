@@ -1,0 +1,18 @@
+{
+  "block.simple_tuff.chiseledtuffbrick": "Різьблена туфова цегла",
+  "block.simple_tuff.polishedtuffslab": "Плита з полірованого туфу",
+  "block.simple_tuff.chiseledtuff": "Різьблений туф",
+  "block.simple_tuff.tuffslab": "Туфова плита",
+  "block.simple_tuff.tuffbrickslab": "Плита з туфової цегли",
+  "block.simple_tuff.polishedtuff": "Полірований туф",
+  "block.simple_tuff.polishedtuffwall": "Стіна з полірованого туфу",
+  "block.simple_tuff.polishedtuffstairs": "Сходи з полірованого туфу",
+  "block.simple_tuff.tuffbrickstairs": "Сходи з туфової цегли",
+  "block.simple_tuff.tuffwall": "Туфова стіна",
+  "subtitles.tuff_step": "",
+  "subtitles.tuff_break": "",
+  "block.simple_tuff.tuffbrick": "Туфова цегла",
+  "subtitles.tuff_place": "",
+  "block.simple_tuff.tuffbrickwall": "Стіна з туфової цегли",
+  "block.simple_tuff.tuffstairs": "Туфові сходи"
+}

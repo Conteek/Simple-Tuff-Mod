@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "simple_tuff:tuffbrick"
+    }
+  },
+  "result": {
+    "item": "simple_tuff:tuffbrickstairs",
+    "count": 4
+  }
+}

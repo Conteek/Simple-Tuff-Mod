@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "simple_tuff:block/stone_bricks",
+    "top": "simple_tuff:block/stone_bricks",
+    "side": "simple_tuff:block/stone_bricks"
+  },
+  "render_type": "solid"
+}
