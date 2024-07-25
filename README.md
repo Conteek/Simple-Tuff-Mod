@@ -54,6 +54,8 @@ After that, all the blocks from the mod will appear in the game
 
 ## Versions
 
+### Simple Tuff Mod 1.20.1-1.0.0
+
 Minecraft version: Forge 1.20.1
 
 Mod version: 1.0.0
