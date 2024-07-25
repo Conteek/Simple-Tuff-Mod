@@ -3,7 +3,7 @@
 
 Simple Tuff Mod is a mod that adds various types of tuff from Minecraft version 1.21 to version 1.20 and below
 
-[GitHub Issues Page](http://www.google.com)
+[GitHub Issues Page](https://github.com/Conteek/Simple-Tuff-Mod/issues)
 
 ## What the mod adds
 This mod adds all the tuff blocks from Minecraft version 1.21
@@ -60,6 +60,6 @@ Minecraft version: Forge 1.20.1
 
 Mod version: 1.0.0
 
-[Download](https://drive.google.com/uc?export=download&id=1X7SPzF9Pu8NJpQYBlShg8udrBQtxRShN)
+[**Download**](https://drive.google.com/uc?export=download&id=1X7SPzF9Pu8NJpQYBlShg8udrBQtxRShN)
 
 
