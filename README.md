@@ -52,3 +52,12 @@ This mod adds all the tuff blocks from Minecraft version 1.21
 
 After that, all the blocks from the mod will appear in the game
 
+## Versions
+
+Minecraft version: Forge 1.20.1
+
+Mod version: 1.0.0
+
+[Download](https://drive.google.com/uc?export=download&id=1X7SPzF9Pu8NJpQYBlShg8udrBQtxRShN)
+
+
