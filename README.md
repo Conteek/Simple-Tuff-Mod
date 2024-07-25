@@ -5,7 +5,7 @@ Simple Tuff Mod is a mod that adds various types of tuff from Minecraft version 
 
 [GitHub Issues Page](http://www.google.com)
 
-## Что добавляет мод
+## What the mod adds
 This mod adds all the tuff blocks from Minecraft version 1.21
 
 ![All types of tuff](https://cdn.modrinth.com/data/cached_images/ea80c40d3ed5b00bb2534a6323ac965140aa75f0.png)
