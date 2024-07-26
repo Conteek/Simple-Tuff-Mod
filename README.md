@@ -63,3 +63,11 @@ Mod version: 1.0.0
 [**Download**](https://drive.google.com/uc?export=download&id=1X7SPzF9Pu8NJpQYBlShg8udrBQtxRShN)
 
 
+### Simple Tuff Mod 1.19.2-1.0.0
+
+Minecraft version: Forge 1.19.2
+
+Mod version: 1.0.0
+
+[**Download**](https://drive.google.com/uc?export=download&id=17TrU4zJEenfu8c0uzkndhMYvPtqMXIK3)
+
