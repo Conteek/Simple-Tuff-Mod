@@ -48,7 +48,11 @@ This mod adds all the tuff blocks from Minecraft version 1.21
 
 
 ## Usage
-**To install the mod, install Minecraft Forge of a suitable version and transfer the mod to the .minecraft/mods folder**
+Forge:
+To install the mod, install Minecraft Forge of a suitable version and transfer the mod to the .minecraft/mods folder
+
+Fabric:
+To install the mod, install Minecraft Fabric and Fabric Api of a suitable version and transfer the mod to the .minecraft/mods folder
 
 After that, all the blocks from the mod will appear in the game
 
