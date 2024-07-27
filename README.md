@@ -54,7 +54,7 @@ To install the mod, install Minecraft Forge of a suitable version and transfer t
 ### Fabric:
 To install the mod, install Minecraft Fabric and [Fabric Api](https://modrinth.com/mod/fabric-api/version/0.77.0+1.19.2) of a suitable version and transfer the mod to the .minecraft/mods folder
 
-After that, all the blocks from the mod will appear in the game
+**After that, all the blocks from the mod will appear in the game**
 
 ## Versions
 
