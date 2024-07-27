@@ -75,3 +75,11 @@ Mod version: 1.0.0
 
 [**Download**](https://drive.google.com/uc?export=download&id=17TrU4zJEenfu8c0uzkndhMYvPtqMXIK3)
 
+### Simple Tuff Mod 1.19.2-1.0.0 Fabric
+
+Minecraft version: Fabric 1.19-1.19.4
+
+Mod version: 1.0.0
+
+[**Download**](https://drive.google.com/uc?export=download&id=1Hmp8FU5EBA_r5Es9mo23PIL7vmxltrIQ)
+
